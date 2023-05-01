@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">multiplicaciones4</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_aritmetica">Multiplicaciones</string>
+    <string name="title_factores">Factores</string>
+    <string name="title_divisiones">Divisiones</string>
+    <string name="level">Nivel 3</string>
+    <string name="score">Puntuacion: 0</string>
+</resources>
